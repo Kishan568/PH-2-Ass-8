@@ -1,0 +1,13 @@
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\obj\Debug\ConsoleAppAss-8.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\obj\Debug\ConsoleAppAss-8.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\obj\Debug\ConsoleAppAss-8.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\bin\Debug\ConsoleAppAss-8.exe.config
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\bin\Debug\ConsoleAppAss-8.exe
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\bin\Debug\ConsoleAppAss-8.pdb
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\bin\Debug\EntityFramework.dll
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\bin\Debug\EntityFramework.xml
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\obj\Debug\ConsoleAppAss-8.csproj.CopyComplete
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\obj\Debug\ConsoleAppAss-8.exe
+E:\Users\kishan\source\repos\PHASE 2\Assignment 8\ConsoleAppAss-8\obj\Debug\ConsoleAppAss-8.pdb
